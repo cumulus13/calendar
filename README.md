@@ -19,4 +19,5 @@ $ python kalendar.py
 [Hadi Cahyadi](mailto:cumulus13@gmail.com)
     
 
-[![Donate via Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/cumulus13) [Support me on Patreon](https://www.patreon.com/yourusername)
+[![Donate via Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)]
+(https://ko-fi.com/cumulus13) [Support me on Patreon](https://www.patreon.com/cumulus13)
