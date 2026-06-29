@@ -14,3 +14,39 @@ build/
 *.egg-info/
 traceback.log
 __pycache__/
+# Added entries (1 items)
+kalendar1*
+
+# Added entries (1 items)
+kalendar2*
+
+# Added entries (1 items)
+kalendar3*
+
+# Added entries (1 items)
+kalendar4*
+
+# Added entries (1 items)
+kalendar6*
+
+# Added entries (1 items)
+kalendar5*
+
+# Added entries (1 items)
+kalendar7*
+
+# Added entries (1 items)
+kalendar0*
+
+# Added entries (1 items)
+*sublime*
+
+# Added entries (2 items)
+kalender.ini
+kalender.py
+
+# Added entries (1 items)
+gitignore_backup/
+
+# Added entries (1 items)
+*.json
