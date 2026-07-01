@@ -50,3 +50,5 @@ gitignore_backup/
 
 # Added entries (1 items)
 *.json
+# PT backup directory
+.pt/
